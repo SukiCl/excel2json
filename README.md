@@ -13,7 +13,7 @@ convert below format excel
 ### key                 CN
     en.movie.name	    电影
     en.movie.actor	    演员
-    en.movie.director	导演
+    en.movie.director   导演
     en.veg.tomato	    西红柿
 
 to json
