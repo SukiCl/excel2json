@@ -1,0 +1,6 @@
+{
+  "en": {
+    "movie": { "name": "电影", "actor": "演员", "director": "导演" },
+    "veg": { "tomato": "西红柿" }
+  }
+}
